@@ -1,0 +1,6 @@
+﻿  interviewInRavTech.c
+C:\Users\Yonatan\source\repos\interviewInRavTech\interviewInRavTech.c(35,25): warning C4133: 'return': incompatible types - from 'Line *' to 'Line *'
+C:\Users\Yonatan\source\repos\interviewInRavTech\interviewInRavTech.c(55,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Yonatan\source\repos\interviewInRavTech\interviewInRavTech.c(83,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Yonatan\source\repos\interviewInRavTech\interviewInRavTech.c(98,20): warning C4018: '<': signed/unsigned mismatch
+  interviewInRavTech.vcxproj -> C:\Users\Yonatan\source\repos\interviewInRavTech\Debug\interviewInRavTech.exe
